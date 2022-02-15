@@ -12,7 +12,7 @@ function App() {
           </div>
         </section>
       </nav>
-      <section>test test</section>
+      <section></section>
     </div>
   );
 }
